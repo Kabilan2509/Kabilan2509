@@ -45,13 +45,12 @@ I enjoy solving real-world problems through technology and continuously improvin
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,git,github,pytorch&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-1F6FEB?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-1F6FEB?style=flat&logo=tensorflow&logoColor=white" />
 </p>
 
 ---
