@@ -44,13 +44,34 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 ## Tech Stack
 
+### Languages & Core
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,git,github,pytorch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
+</p>
+
+---
+
+### Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,git,github&theme=dark" />
+</p>
+
+---
+
+### AI & Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-1F6FEB?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-1F6FEB?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
 
 ---
