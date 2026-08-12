@@ -135,7 +135,7 @@ An intelligent traffic-management solution designed to analyze real-time traffic
 
 </div>
 
-<h2><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="26" height="26" align="center" alt="Connect" />&nbsp; Connect With Me</h2>
+<h2>&nbsp; Connect With Me</h2>
 
 <div align="center">
 
