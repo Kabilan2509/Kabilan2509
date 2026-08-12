@@ -16,7 +16,7 @@
 
 </div>
 
-## About Me
+<h2><img src="https://cdn.simpleicons.org/aboutdotme/58A6FF" width="26" height="26" align="center" alt="About" />&nbsp; About Me</h2>
 
 I am an engineering student and software developer focused on building meaningful, scalable and intelligent solutions. My interests lie at the intersection of **software engineering, artificial intelligence, machine learning and real-world problem-solving**.
 
@@ -25,41 +25,41 @@ I am an engineering student and software developer focused on building meaningfu
 - Interested in automation, data-driven applications and scalable architecture
 - Open to internships, collaborations, hackathons and innovative projects
 
-## Achievements
+<h2><img src="https://cdn.simpleicons.org/hackaday/58A6FF" width="26" height="26" align="center" alt="Achievements" />&nbsp; Achievements</h2>
 
-### Smartathon 2.0 Finalist
+<h3><img src="https://cdn.simpleicons.org/ieee/00629B" width="22" height="22" align="center" alt="IEEE" />&nbsp; Smartathon 2.0 Finalist</h3>
 
 Ranked among the **Top 10 teams** in the Transportation and Logistics domain at a national-level hackathon organized by the **IEEE IAS Madras Chapter**.
 
-### KSP Datathon 2026 — MADHUKAR
+<h3><img src="https://cdn.simpleicons.org/zoho/E42527" width="22" height="22" align="center" alt="Zoho" />&nbsp; KSP Datathon 2026 — MADHUKAR</h3>
 
 Built an **AI-driven crime analytics and visualization platform** for the Karnataka State Police. The platform unifies statewide crime, case, evidence, geographic and historical data in a secure command dashboard with GIS crime hotspots, predictive analytics, connected-case investigation and the MADHUKAR AI Copilot.
 
 `React 19` · `Node.js` · `Express.js` · `Zoho Catalyst` · `ZCQL` · `Leaflet` · `Zoho AI`
 
-## Technical Expertise
+<h2><img src="https://cdn.simpleicons.org/codeforces/58A6FF" width="26" height="26" align="center" alt="Technical expertise" />&nbsp; Technical Expertise</h2>
 
 <div align="center">
 
-### Languages
+<h3><img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="22" height="22" align="center" alt="Programming languages" />&nbsp; Languages</h3>
 
 <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" alt="Java, Python and JavaScript" />
 
-### Development
+<h3><img src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" align="center" alt="Development" />&nbsp; Development</h3>
 
 <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express&theme=dark" alt="React, HTML, CSS, Node.js and Express.js" />
 
-### AI and Machine Learning
+<h3><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="22" height="22" align="center" alt="AI and machine learning" />&nbsp; AI and Machine Learning</h3>
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="PyTorch and TensorFlow" />
 
-### Tools and Platforms
+<h3><img src="https://cdn.simpleicons.org/git/F05032" width="22" height="22" align="center" alt="Tools and platforms" />&nbsp; Tools and Platforms</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code" />
 
 </div>
 
-## Current Focus
+<h2><img src="https://cdn.simpleicons.org/target/58A6FF" width="26" height="26" align="center" alt="Current focus" />&nbsp; Current Focus</h2>
 
 **Intelligent Systems**  
 Building data-driven and machine-learning applications that address practical challenges and improve decision-making.
@@ -70,11 +70,11 @@ Creating responsive, accessible and user-focused products with modern frontend a
 **Continuous Growth**  
 Strengthening my engineering skills through meaningful projects, collaboration and consistent practice.
 
-## Featured Project
+<h2><img src="https://cdn.simpleicons.org/github/58A6FF" width="26" height="26" align="center" alt="Featured project" />&nbsp; Featured Project</h2>
 
 <div align="center">
 
-### Urban Traffic Management
+<h3><img src="https://cdn.simpleicons.org/googlemaps/4285F4" width="22" height="22" align="center" alt="Urban Traffic Management" />&nbsp; Urban Traffic Management</h3>
 
 An intelligent traffic-management solution designed to analyze real-time traffic conditions, improve road efficiency and support smarter transportation decisions.
 
@@ -88,7 +88,7 @@ An intelligent traffic-management solution designed to analyze real-time traffic
 
 </div>
 
-## GitHub Analytics
+<h2><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="26" height="26" align="center" alt="GitHub analytics" />&nbsp; GitHub Analytics</h2>
 
 <div align="center">
 
@@ -106,7 +106,7 @@ An intelligent traffic-management solution designed to analyze real-time traffic
 
 </div>
 
-## Languages and Technologies
+<h2><img src="https://cdn.simpleicons.org/stackshare/0690FA" width="26" height="26" align="center" alt="Languages and technologies" />&nbsp; Languages and Technologies</h2>
 
 <div align="center">
 
@@ -123,7 +123,7 @@ An intelligent traffic-management solution designed to analyze real-time traffic
 
 </div>
 
-## Contribution Activity
+<h2><img src="https://cdn.simpleicons.org/git/58A6FF" width="26" height="26" align="center" alt="Contribution activity" />&nbsp; Contribution Activity</h2>
 
 <div align="center">
 
@@ -135,7 +135,7 @@ An intelligent traffic-management solution designed to analyze real-time traffic
 
 </div>
 
-## Connect With Me
+<h2><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="26" height="26" align="center" alt="Connect" />&nbsp; Connect With Me</h2>
 
 <div align="center">
 
