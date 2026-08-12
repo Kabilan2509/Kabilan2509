@@ -98,17 +98,21 @@ Achievements
       <strong>Smartathon 2.0 Finalist</strong>
       <br/>
       Ranked among the Top 10 teams in the Transportation and Logistics domain.
+      <br/>
+      National-level hackathon organized by the IEEE IAS Madras Chapter.
     </td>
   </tr>
 
   <tr>
     <td width="70" align="center">
-      <span style="font-size:28px">⚡</span>
+      <span style="font-size:34px">🚦</span>
     </td>
     <td>
-      <strong>National-Level Hackathon Participant</strong>
+      <strong>KSP Datathon 2026</strong>
       <br/>
-      Participated in a national-level hackathon organized by the IEEE IAS Madras Chapter.
+      Developed and presented <strong>Traffix — an AI-powered Urban Traffic Management System</strong>
+      for Problem Statement 2, focusing on intelligent traffic monitoring, congestion prediction,
+      adaptive signal control and emergency vehicle prioritization.
     </td>
   </tr>
 </table>
