@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0969DA,100:58A6FF&text=Kabilan%20K%20A&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Engineering%20Student%20%E2%80%A2%20AI%2FML%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Kabilan K A" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Engineering+solutions+for+real-world+problems;Building+intelligent+and+scalable+applications;Exploring+AI+and+Machine+Learning;Learning+consistently.+Building+purposefully." alt="Professional introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Building+solutions+for+real-world+problems;Creating+intelligent+and+scalable+applications;Exploring+AI+and+Machine+Learning;Learning+consistently.+Building+purposefully." alt="Animated professional introduction" />
 
 <br/><br/>
 
@@ -31,7 +31,7 @@ I am an engineering student and software developer focused on building meaningfu
 
 Ranked among the **Top 10 teams** in the Transportation and Logistics domain at a national-level hackathon organized by the **IEEE IAS Madras Chapter**.
 
-<h3><img src="https://cdn.simpleicons.org/zoho/E42527" width="22" height="22" align="center" alt="Zoho" />&nbsp; KSP Datathon 2026 — MADHUKAR</h3>
+<h3><a href="https://github.com/Kabilan2509?tab=repositories&q=MADHUKAR"><img src="https://cdn.simpleicons.org/zoho/E42527" width="22" height="22" align="center" alt="Zoho" />&nbsp; KSP Datathon 2026 — MADHUKAR</a></h3>
 
 Built an **AI-driven crime analytics and visualization platform** for the Karnataka State Police. The platform unifies statewide crime, case, evidence, geographic and historical data in a secure command dashboard with GIS crime hotspots, predictive analytics, connected-case investigation and the MADHUKAR AI Copilot.
 
@@ -59,7 +59,7 @@ Built an **AI-driven crime analytics and visualization platform** for the Karnat
 
 </div>
 
-<h2><img src="https://cdn.simpleicons.org/target/58A6FF" width="26" height="26" align="center" alt="Current focus" />&nbsp; Current Focus</h2>
+<h2><img src="https://cdn.simpleicons.org/python/58A6FF" width="26" height="26" align="center" alt="Current focus" />&nbsp; Current Focus</h2>
 
 **Intelligent Systems**  
 Building data-driven and machine-learning applications that address practical challenges and improve decision-making.
@@ -74,9 +74,19 @@ Strengthening my engineering skills through meaningful projects, collaboration a
 
 <div align="center">
 
-<h3><img src="https://cdn.simpleicons.org/googlemaps/4285F4" width="22" height="22" align="center" alt="Urban Traffic Management" />&nbsp; Urban Traffic Management</h3>
+<h3><a href="https://github.com/Kabilan2509/Urban_Traffic_Management"><img src="https://cdn.simpleicons.org/googlemaps/4285F4" width="22" height="22" align="center" alt="Urban Traffic Management" />&nbsp; Urban Traffic Management</a></h3>
 
 An intelligent traffic-management solution designed to analyze real-time traffic conditions, improve road efficiency and support smarter transportation decisions.
+
+<a href="https://github.com/Kabilan2509/Urban_Traffic_Management">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Kabilan2509&repo=Urban_Traffic_Management&theme=github_dark&hide_border=true&description_lines_count=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Kabilan2509&repo=Urban_Traffic_Management&theme=default&hide_border=true&description_lines_count=2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kabilan2509&repo=Urban_Traffic_Management&theme=github_dark&hide_border=true&description_lines_count=2" width="100%" alt="Live Urban Traffic Management repository card" />
+  </picture>
+</a>
+
+<br/>
 
 <img src="https://img.shields.io/badge/Traffic%20Analytics-0969DA?style=flat-square&logo=googlemaps&logoColor=white" alt="Traffic Analytics" />
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square&logo=openai&logoColor=white" alt="Artificial Intelligence" />
@@ -98,6 +108,8 @@ An intelligent traffic-management solution designed to analyze real-time traffic
   <img src="https://github-readme-stats.vercel.app/api?username=Kabilan2509&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub statistics" />
 </picture>
 
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Kabilan2509&theme=github-dark-blue&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Kabilan2509&theme=default&hide_border=true" />
@@ -112,14 +124,24 @@ An intelligent traffic-management solution designed to analyze real-time traffic
 
 <!-- Wrapping badges remain readable on desktop, tablet and mobile. -->
 
+<p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+</p>
+<p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabilan2509&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabilan2509&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabilan2509&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="100%" alt="Live most-used languages statistics" />
+</picture>
 
 </div>
 
@@ -135,7 +157,7 @@ An intelligent traffic-management solution designed to analyze real-time traffic
 
 </div>
 
-<h2>&nbsp; Connect With Me</h2>
+<h2><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="26" height="26" align="center" alt="Connect" />&nbsp; Connect With Me</h2>
 
 <div align="center">
 
