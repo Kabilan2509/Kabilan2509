@@ -87,16 +87,12 @@ alt="Profile views"
 
 <hr/>
 
-<h2>Achievements</h2>
+Achievements
 
 <table>
   <tr>
     <td width="70" align="center">
-      <img
-        src="https://img.shields.io/badge/%F0%9F%8F%86-Hackathon-58A6FF?style=flat-square"
-        width="34"
-        alt="Hackathon icon"
-      />
+      <span style="font-size:34px">🏆</span>
     </td>
     <td>
       <strong>Smartathon 2.0 Finalist</strong>
@@ -107,17 +103,12 @@ alt="Profile views"
 
   <tr>
     <td width="70" align="center">
-      <img
-        src="https://cdn.simpleicons.org/ieee/00629B"
-        width="38"
-        alt="IEEE icon"
-      />
+      <span style="font-size:28px">⚡</span>
     </td>
     <td>
       <strong>National-Level Hackathon Participant</strong>
       <br/>
-      Participated in a national-level hackathon organized by the IEEE IAS
-      Madras Chapter.
+      Participated in a national-level hackathon organized by the IEEE IAS Madras Chapter.
     </td>
   </tr>
 </table>
@@ -230,28 +221,30 @@ alt="Problem Solving"
 
 <hr/>
 
-<h2>Featured Project</h2>
+Featured Project
 
-<div align="center">
+<p align="center">
+
+<a href="https://github.com/Kabilan2509/Urban_Traffic_Management" target="_blank" rel="noopener noreferrer">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=Kabilan2509&repo=Urban_Traffic_Management&theme=github_dark&hide_border=true&description_lines_count=2"
+alt="Urban Traffic Management"
+width="600"
+/>
+
+</a>
+
+<br/>
 
 <a href="https://github.com/Kabilan2509/Urban_Traffic_Management" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://opengraph.githubassets.com/1/Kabilan2509/Urban_Traffic_Management"
-    width="600"
-    alt="Urban Traffic Management repository"
+    src="https://img.shields.io/badge/Explore%20Urban%20Traffic%20Management-58A6FF?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore Urban Traffic Management"
   />
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/Kabilan2509?tab=repositories" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://img.shields.io/badge/View%20All%20Projects-238636?style=for-the-badge&logo=github&logoColor=white"
-    alt="View all projects"
-  />
-</a>
-
-</div>
+</p>
 
 <hr/>
 
@@ -281,22 +274,21 @@ src="https://streak-stats.demolab.com?user=Kabilan2509&theme=github-dark-blue&hi
 alt="Kabilan's GitHub contribution streak"
 />
 
-<br/><br/>
+Most Used Languages
 
-<div align="center">
-  <img
-    src="https://img.shields.io/badge/Java-Primary%20Language-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
-    alt="Java"
-  />
-  <img
-    src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white"
-    alt="Python"
-  />
-  <img
-    src="https://img.shields.io/badge/JavaScript-Primary%20Language-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-    alt="JavaScript"
-  />
-</div>
+<p align="center">
+
+<a href="https://github.com/Kabilan2509" target="_blank" rel="noopener noreferrer">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabilan2509&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=445"
+alt="Most Used Languages"
+width="445"
+/>
+
+</a>
+
+</p>
 
 </div>
 
