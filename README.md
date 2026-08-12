@@ -110,9 +110,7 @@ Achievements
     <td>
       <strong>KSP Datathon 2026</strong>
       <br/>
-      Developed and presented <strong>Traffix — an AI-powered Urban Traffic Management System</strong>
-      for Problem Statement 2, focusing on intelligent traffic monitoring, congestion prediction,
-      adaptive signal control and emergency vehicle prioritization.
+      Developed and presented <strong>Madhukar</strong> for Problem Statement 2.
     </td>
   </tr>
 </table>
