@@ -233,9 +233,9 @@
 
 <div align="center">
 
-<a href="https://github.com/Kabilan2509/YOUR_REPOSITORY_NAME">
+<a href="https://github.com/Kabilan2509/Urban_Traffic_Management">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Kabilan2509&repo=YOUR_REPOSITORY_NAME&theme=github_dark&hide_border=true&description_lines_count=2"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Kabilan2509&repo=Urban_Traffic_Management&theme=github_dark&hide_border=true&description_lines_count=2"
     alt="Featured project"
   />
 </a>
