@@ -93,7 +93,7 @@ alt="Profile views"
   <tr>
     <td width="70" align="center">
       <img
-        src="https://cdn.simpleicons.org/trophy/58A6FF"
+        src="https://img.shields.io/badge/%F0%9F%8F%86-Hackathon-58A6FF?style=flat-square"
         width="34"
         alt="Hackathon icon"
       />
@@ -236,8 +236,9 @@ alt="Problem Solving"
 
 <a href="https://github.com/Kabilan2509/Urban_Traffic_Management" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Kabilan2509&repo=Urban_Traffic_Management&theme=github_dark&hide_border=true&description_lines_count=2"
-    alt="Featured project"
+    src="https://opengraph.githubassets.com/1/Kabilan2509/Urban_Traffic_Management"
+    width="600"
+    alt="Urban Traffic Management repository"
   />
 </a>
 
@@ -282,21 +283,20 @@ alt="Kabilan's GitHub contribution streak"
 
 <br/><br/>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabilan2509&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabilan2509&layout=compact&theme=default&hide_border=true&langs_count=8"
+<div align="center">
+  <img
+    src="https://img.shields.io/badge/Java-Primary%20Language-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+    alt="Java"
   />
   <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabilan2509&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    alt="Most-used languages"
+    src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python"
   />
-</picture>
+  <img
+    src="https://img.shields.io/badge/JavaScript-Primary%20Language-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+    alt="JavaScript"
+  />
+</div>
 
 </div>
 
