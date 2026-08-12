@@ -108,9 +108,13 @@ Achievements
       <span style="font-size:34px">🚦</span>
     </td>
     <td>
-      <strong>KSP Datathon 2026</strong>
+      <strong>KSP Datathon 2026 — MADHUKAR</strong>
       <br/>
-      Developed and presented <strong>Madhukar</strong> for Problem Statement 2.
+      Built an <strong>AI-Driven Crime Analytics &amp; Visualization Platform</strong> for Karnataka State Police.
+      <br/>
+      Integrates statewide crime, case, evidence, geographic and historical data into a secure command dashboard with <strong>GIS crime hotspots, predictive analytics, connected case investigation, and MADHUKAR AI Copilot</strong>.
+      <br/>
+      <strong>Tech:</strong> React 19, Node.js, Express.js, Zoho Catalyst, Catalyst Data Store, ZCQL, Leaflet &amp; Zoho AI.
     </td>
   </tr>
 </table>
