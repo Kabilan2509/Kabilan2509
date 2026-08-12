@@ -5,27 +5,27 @@
 <h3>Software Developer · Engineering Student · AI/ML Enthusiast</h3>
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Engineering+solutions+for+real-world+problems;Building+intelligent+and+scalable+applications;Exploring+Artificial+Intelligence+and+Machine+Learning;Learning+consistently.+Building+purposefully."
-  alt="Professional introduction"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Engineering+solutions+for+real-world+problems;Building+intelligent+and+scalable+applications;Exploring+Artificial+Intelligence+and+Machine+Learning;Learning+consistently.+Building+purposefully."
+alt="Professional introduction"
 />
 
 <br/><br/>
 
-<a href="https://github.com/Kabilan2509">
+<a href="https://github.com/Kabilan2509" target="_blank" rel="noopener noreferrer">
   <img
     src="https://img.shields.io/badge/GitHub-Kabilan2509-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub profile"
   />
 </a>
 
-<a href="https://www.linkedin.com/in/kabilan-k-a-25092006r/">
+<a href="https://www.linkedin.com/in/kabilan-k-a-25092006r/" target="_blank" rel="noopener noreferrer">
   <img
     src="https://img.shields.io/badge/LinkedIn-Kabilan%20K%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn profile"
   />
 </a>
 
-<a href="https://github.com/Kabilan2509?tab=repositories">
+<a href="https://github.com/Kabilan2509?tab=repositories" target="_blank" rel="noopener noreferrer">
   <img
     src="https://img.shields.io/badge/Projects-Explore%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white"
     alt="Explore repositories"
@@ -35,8 +35,8 @@
 <br/><br/>
 
 <img
-  src="https://komarev.com/ghpvc/?username=Kabilan2509&label=Profile%20Views&color=0A66C2&style=flat-square"
-  alt="Profile views"
+src="https://komarev.com/ghpvc/?username=Kabilan2509&label=Profile%20Views&color=0A66C2&style=flat-square"
+alt="Profile views"
 />
 
 </div>
@@ -65,11 +65,11 @@
   </tr>
   <tr>
     <td><strong>Role</strong></td>
-    <td>Engineering Student and Software Developer</td>
+    <td>Engineering Student · Software Developer</td>
   </tr>
   <tr>
     <td><strong>Focus</strong></td>
-    <td>Artificial Intelligence, Machine Learning and Web Development</td>
+    <td>Artificial Intelligence, Machine Learning &amp; Web Development</td>
   </tr>
   <tr>
     <td><strong>Interests</strong></td>
@@ -93,7 +93,7 @@
   <tr>
     <td width="70" align="center">
       <img
-        src="https://cdn.simpleicons.org/hackaday/58A6FF"
+        src="https://cdn.simpleicons.org/trophy/58A6FF"
         width="34"
         alt="Hackathon icon"
       />
@@ -131,51 +131,51 @@
 <h3>Programming Languages</h3>
 
 <img
-  src="https://skillicons.dev/icons?i=java,python,js&theme=dark"
-  alt="Java, Python and JavaScript"
+src="https://skillicons.dev/icons?i=java,python,js&theme=dark"
+alt="Java, Python and JavaScript"
 />
 
 <h3>Frontend Development</h3>
 
 <img
-  src="https://skillicons.dev/icons?i=react,html,css&theme=dark"
-  alt="React, HTML and CSS"
+src="https://skillicons.dev/icons?i=react,html,css&theme=dark"
+alt="React, HTML and CSS"
 />
 
 <h3>Artificial Intelligence and Machine Learning</h3>
 
 <img
-  src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"
-  alt="PyTorch and TensorFlow"
+src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"
+alt="PyTorch and TensorFlow"
 />
 
 <h3>Development Tools</h3>
 
 <img
-  src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"
-  alt="Git, GitHub and Visual Studio Code"
+src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"
+alt="Git, GitHub and Visual Studio Code"
 />
 
 <br/><br/>
 
 <img
-  src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat-square&logo=python&logoColor=white"
-  alt="Machine Learning"
+src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat-square&logo=python&logoColor=white"
+alt="Machine Learning"
 />
 
 <img
-  src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"
-  alt="Deep Learning"
+src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"
+alt="Deep Learning"
 />
 
 <img
-  src="https://img.shields.io/badge/Frontend%20Development-61DAFB?style=flat-square&logo=react&logoColor=000000"
-  alt="Frontend Development"
+src="https://img.shields.io/badge/Frontend%20Development-61DAFB?style=flat-square&logo=react&logoColor=000000"
+alt="Frontend Development"
 />
 
 <img
-  src="https://img.shields.io/badge/Problem%20Solving-FFA116?style=flat-square&logo=leetcode&logoColor=000000"
-  alt="Problem Solving"
+src="https://img.shields.io/badge/Problem%20Solving-FFA116?style=flat-square&logo=leetcode&logoColor=000000"
+alt="Problem Solving"
 />
 
 </div>
@@ -199,31 +199,32 @@
       practical problems.
     </td>
 
-    <td width="33%" align="center">
-      <img
-        src="https://cdn.simpleicons.org/react/61DAFB"
-        width="44"
-        alt="React"
-      />
-      <br/><br/>
-      <strong>Modern Applications</strong>
-      <br/><br/>
-      Building responsive and user-focused applications with modern
-      development technologies.
-    </td>
+<td width="33%" align="center">
+  <img
+    src="https://cdn.simpleicons.org/react/61DAFB"
+    width="44"
+    alt="React"
+  />
+  <br/><br/>
+  <strong>Modern Applications</strong>
+  <br/><br/>
+  Building responsive and user-focused applications with modern
+  development technologies.
+</td>
 
-    <td width="33%" align="center">
-      <img
-        src="https://cdn.simpleicons.org/github/8B949E"
-        width="44"
-        alt="GitHub"
-      />
-      <br/><br/>
-      <strong>Continuous Growth</strong>
-      <br/><br/>
-      Improving engineering skills through projects, collaboration and
-      consistent practice.
-    </td>
+<td width="33%" align="center">
+  <img
+    src="https://cdn.simpleicons.org/github/8B949E"
+    width="44"
+    alt="GitHub"
+  />
+  <br/><br/>
+  <strong>Continuous Growth</strong>
+  <br/><br/>
+  Improving engineering skills through projects, collaboration and
+  consistent practice.
+</td>
+
   </tr>
 </table>
 
@@ -233,7 +234,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Kabilan2509/Urban_Traffic_Management">
+<a href="https://github.com/Kabilan2509/Urban_Traffic_Management" target="_blank" rel="noopener noreferrer">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=Kabilan2509&repo=Urban_Traffic_Management&theme=github_dark&hide_border=true&description_lines_count=2"
     alt="Featured project"
@@ -242,7 +243,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/Kabilan2509?tab=repositories">
+<a href="https://github.com/Kabilan2509?tab=repositories" target="_blank" rel="noopener noreferrer">
   <img
     src="https://img.shields.io/badge/View%20All%20Projects-238636?style=for-the-badge&logo=github&logoColor=white"
     alt="View all projects"
@@ -260,23 +261,23 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Kabilan2509&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=Kabilan2509&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Kabilan2509&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=Kabilan2509&show_icons=true&theme=default&hide_border=true&include_all_commits=true&rank_icon=github"
   />
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Kabilan2509&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=Kabilan2509&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"
     alt="Kabilan's GitHub statistics"
   />
 </picture>
 
 <img
-  width="49%"
-  src="https://streak-stats.demolab.com?user=Kabilan2509&theme=github-dark-blue&hide_border=true"
-  alt="Kabilan's GitHub contribution streak"
+width="49%"
+src="https://streak-stats.demolab.com?user=Kabilan2509&theme=github-dark-blue&hide_border=true"
+alt="Kabilan's GitHub contribution streak"
 />
 
 <br/><br/>
@@ -330,23 +331,23 @@
 <div align="center">
 
 <img
-  src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white"
-  alt="Artificial Intelligence"
+src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white"
+alt="Artificial Intelligence"
 />
 
 <img
-  src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"
-  alt="Machine Learning"
+src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"
+alt="Machine Learning"
 />
 
 <img
-  src="https://img.shields.io/badge/Software%20Engineering-111827?style=for-the-badge&logo=github&logoColor=white"
-  alt="Software Engineering"
+src="https://img.shields.io/badge/Software%20Engineering-111827?style=for-the-badge&logo=github&logoColor=white"
+alt="Software Engineering"
 />
 
 <img
-  src="https://img.shields.io/badge/Web%20Development-111827?style=for-the-badge&logo=react&logoColor=61DAFB"
-  alt="Web Development"
+src="https://img.shields.io/badge/Web%20Development-111827?style=for-the-badge&logo=react&logoColor=61DAFB"
+alt="Web Development"
 />
 
 </div>
@@ -362,14 +363,14 @@
   internship opportunities, hackathons and impactful collaborations.
 </p>
 
-<a href="https://www.linkedin.com/in/kabilan-k-a-25092006r/">
+<a href="https://www.linkedin.com/in/kabilan-k-a-25092006r/" target="_blank" rel="noopener noreferrer">
   <img
     src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="Connect on LinkedIn"
   />
 </a>
 
-<a href="https://github.com/Kabilan2509">
+<a href="https://github.com/Kabilan2509" target="_blank" rel="noopener noreferrer">
   <img
     src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="Follow on GitHub"
@@ -386,9 +387,9 @@
 <br/><br/>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:1F6FEB,100:58A6FF&height=100&section=footer"
-  width="100%"
-  alt="Profile footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:1F6FEB,100:58A6FF&height=100&section=footer"
+width="100%"
+alt="Profile footer"
 />
 
 </div>
